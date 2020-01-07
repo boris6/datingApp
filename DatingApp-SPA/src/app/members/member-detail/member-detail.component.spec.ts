@@ -11,9 +11,8 @@ describe('MemberDetailComponent', () => {
 
   beforeEach(async(() => {
     TestBed.configureTestingModule({
-      declarations: [ MemberDetailComponent ]
-    })
-    .compileComponents();
+      declarations: [MemberDetailComponent]
+    }).compileComponents();
   }));
 
   beforeEach(() => {
